@@ -2,7 +2,7 @@ trigger:
 - '*'
 
 pool:
-  name: 'stest-self-build'
+  name: 'test-self-build'
   demands:
   - npm
 
